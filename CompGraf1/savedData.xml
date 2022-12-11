@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ElementsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LineList>
+    <Line>
+      <StartPoint>
+        <X>53</X>
+        <Y>100</Y>
+      </StartPoint>
+      <EndPoint>
+        <X>64</X>
+        <Y>54</Y>
+      </EndPoint>
+      <Width>4</Width>
+      <Color>Gold</Color>
+      <Alpha>254</Alpha>
+    </Line>
+  </LineList>
+  <PolyLineList />
+  <BezierList />
+  <PolygonList />
+  <RectangleList />
+  <CircleList />
+  <EllipseList />
+  <TextList />
+</ElementsData>
